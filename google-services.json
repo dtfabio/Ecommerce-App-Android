@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "240080326328",
+    "firebase_url": "https://route66store-85f08.firebaseio.com",
+    "project_id": "route66store-85f08",
+    "storage_bucket": "route66store-85f08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240080326328:android:67375a543aefc4bc",
+        "android_client_info": {
+          "package_name": "com.example.fabiodt.route66store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240080326328-99de1vqn0sti0c7m1v1t8efot9be8n1p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fabiodt.route66store",
+            "certificate_hash": "7d9b58dabbde2c28cfedfdfb2869a255ff23269f"
+          }
+        },
+        {
+          "client_id": "240080326328-dtrstjjete3n22f3hhd2hqiru3fiafd3.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "240080326328-dtrstjjete3n22f3hhd2hqiru3fiafd3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBylN83B3CM-PKmwHLPAMhyQQKuUTm0It4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240080326328-dtrstjjete3n22f3hhd2hqiru3fiafd3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

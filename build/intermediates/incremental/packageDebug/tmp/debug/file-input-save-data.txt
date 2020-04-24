@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Fri Jun 08 22:52:40 CEST 2018
+1.base=/Users/fabiodt/Desktop/Esame Mobile/Route66Store (Release2)/app/build/intermediates/transforms/dexMerger/debug/0
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=fonts/NABILA.TTF
+0.set=ASSET
+0.base=/Users/fabiodt/Desktop/Esame Mobile/Route66Store (Release2)/app/build/intermediates/assets/debug
+1.path=classes.dex

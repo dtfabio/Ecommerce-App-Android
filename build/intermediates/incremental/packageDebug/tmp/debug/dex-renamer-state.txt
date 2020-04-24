@@ -1,0 +1,4 @@
+#Fri Jun 08 22:52:40 CEST 2018
+base.0=/Users/fabiodt/Desktop/Esame Mobile/Route66Store (Release2)/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
