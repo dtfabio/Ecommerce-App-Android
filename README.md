@@ -1,6 +1,6 @@
 # E-commerce App of motorcycles for Android
 
-Route66 Store is an  E-commerce App of motorcycles for Android. includes functionality of: purchase, shopping cart, registration, login, menu, categories, products.
+Route66 Store is an  Ecommerce App of motorcycles for Android. Includes functionality of: purchase, shopping cart, registration, login, menu, categories, products.
 
 <div align="center">
     <img src="/Screen/1.png" width="400px"</img> 
